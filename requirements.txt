@@ -3,3 +3,4 @@ replicate
 mangum
 python-dotenv
 fastapi
+uvicorn
