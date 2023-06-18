@@ -4,3 +4,4 @@ mangum
 python-dotenv
 fastapi
 #pip install "uvicorn[standard]"
+uvicorn
