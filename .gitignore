@@ -1,3 +1,4 @@
 .env
 .DS_Store
 instructions.txt
+__pycache__
