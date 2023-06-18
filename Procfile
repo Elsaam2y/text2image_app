@@ -1,1 +1,0 @@
-web: uvicorn text2image_api:app --host=0.0.0.0 --port=$PORT
