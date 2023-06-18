@@ -2,6 +2,6 @@ typing_extensions==4.3.0
 replicate
 mangum
 python-dotenv
-fastapi
+fastapi[all]
 #pip install "uvicorn[standard]"
-"uvicorn[standard]"
+#uvicorn
